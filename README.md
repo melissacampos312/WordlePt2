@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
-The biggest challenge for was 
+The biggest challenge for was trying to connecting my local Xcode project to GitHub using GitHub Desktop, I still getting used to it, and with all the different folders I have on my computer it makes it diffucult. 
 
 ## License
 
